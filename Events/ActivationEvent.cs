@@ -2,7 +2,7 @@
 
 using System;
 
-namespace Nodes.Messages
+namespace Nodes.Messages.Events
 {
     /// <summary>
     /// Event indicating that an asset(portfolio) activation/dispatch event has occured. 
