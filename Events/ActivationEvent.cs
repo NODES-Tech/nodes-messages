@@ -16,14 +16,21 @@ namespace Nodes.Messages.Events
         public string TradeId { get; set; }
 
         /// <summary>
-        /// The portfolio that should be activated/dispatch
+        /// The portfolio that should be activated/dispatched
         /// </summary>
         public string PortfolioId { get; set; }
 
         /// <summary>
-        /// The quantity the portfolio should be activated/dispatched in MW or MWh. 
+        /// The quantity the portfolio should be activated/dispatched in MW or MWh.
+        /// Note that this is a positive number and the regulation type
+        /// indicates whether this is an Up or Down regulation.  
         /// </summary>
         public float Quantity { get; set; }
+
+        /// <summary>
+        /// Up or Down, where Up corresponds to increased production / decreased consumption. 
+        /// </summary>
+        public string RegulationType { get; set; }
 
         /// <summary>
         /// Start of this dispatch. Note that another dispatch might end at exactly this time,
