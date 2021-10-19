@@ -1,31 +1,28 @@
-﻿// ReSharper disable UnusedType.Global
+﻿using System;
 
-using System;
+// ReSharper disable UnusedType.Global
+// ReSharper disable UnusedMember.Global
 
 namespace Nodes.Messages.Events
 {
     /// <summary>
-    /// Event indicating that an asset(portfolio) dispatch/activation/de-activation event has occured. 
+    /// Event indicating that an device/asset/portfolio dispatch/activation/de-activation event has occured. 
     /// </summary>
     public class DispatchEvent
     {
-        // PUT IN HEADER?
-        public string OrganizationId { get; set; }
-
-
         /// <summary>
-        /// Reference to the trade that causes this dispatch
+        /// Reference to the trade that causes this dispatch.
         /// </summary>
         public string TradeId { get; set; }
 
         /// <summary>
-        /// The portfolio that should be dispatched
+        /// The portfolio that should be dispatched. 
         /// </summary>
         public string PortfolioId { get; set; }
 
         /// <summary>
         /// The quantity the portfolio should be dispatched in MW or MWh.
-        /// Note that this is a positive number and the regulation type
+        /// Note that this is always a non-negative number and the regulation type
         /// indicates whether this is an Up or Down regulation.  
         /// </summary>
         public float Quantity { get; set; }

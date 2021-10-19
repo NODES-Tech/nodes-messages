@@ -8,6 +8,116 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Kafka/IMessageSender.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Kafka/MessageSender.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Kafka/Topics.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/Datasets/DefaultDataset.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/NotificationService.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/TradeService.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.UseCases/DispatchNotifications/DispatchNotificationCancelledTest.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.UseCases/OrdersAndTrades/UpdateTradeTests.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API/Enums/EventType.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/docs/MFRR/MfrrFlow.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/docs/Messaging/gateclosed-events-flow.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/docs/Messaging/trade-creation-events-flow.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/docs/Messaging/trade-update-events-flow.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/Nodes.Scenarios/Matching/ScenarioTests.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.OrderDomain/Factories/TradeBoxFactory.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.TradeService/Infrastructure/TradeBoxRepository.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/tests/Nodes.OrderDomain.Tests/Helpers/MarketBuilder.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/tests/Nodes.OrderDomain.Tests/Performance/CreateOrders.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/tests/Nodes.TradeService.Tests/MatchCreatedConsumerTests.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Events/ActivationEvent.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Events/DispatchEvent.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
