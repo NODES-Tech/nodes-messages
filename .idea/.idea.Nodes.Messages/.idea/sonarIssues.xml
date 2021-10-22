@@ -28,12 +28,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/NoOpImplementations/LocalMessageHandler.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/NotificationService.cs">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Services/TradeService.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.API/Nodes.API.Tests/Notifications/MarketMessagesNotificationsTests.cs">
           <value>
             <set />
           </value>
@@ -78,7 +88,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/Nodes.Scenarios/ScenarioSample.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.Order.Service.Integration/KafkaConsumers/OrderPublicMessaging.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.Order.Service.Integration/KafkaConsumers/TransferDomainEventsToServiceBus.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.Order.Service.Integration/Startup.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.OrderDomain/Factories/TradeBoxFactory.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.Shared.Infrastructure/ServiceBus/ServiceBusHelper.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Development/Nodes.OrderDomain/src/Nodes.Shared.Infrastructure/ServiceBus/ServiceBusTopicProducer.cs">
           <value>
             <set />
           </value>
@@ -109,6 +149,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Events/DispatchEvent.cs">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NodesMessages.cs">
           <value>
             <set />
           </value>
